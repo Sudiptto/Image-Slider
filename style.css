@@ -1,7 +1,7 @@
 body {
   background-color: rgb(58, 58, 58);
   margin-top: 10px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.685), rgb(0, 0, 0)),url(/ImageSlider/images/background.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.685), rgb(0, 0, 0)),url(/images/background.png);
 }
 
 .carousel-container {
